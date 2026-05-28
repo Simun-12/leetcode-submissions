@@ -5,74 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="443126a9-7c4e-45e9-b213-cff29b056872" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/CorFlightBooking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/GoodArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/LongestCommonPrefix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MajorityELement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MajorityElement2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MaxCon1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MaxSubarraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MergeSorted.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MinCommon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MoveZero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/NextPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/PrefixCommonArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/ReaarangeElementBySign.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/RemoveDupe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/RotateArraybyK.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/RotateTheBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/SortColors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/SortedRotated.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/StockBuySell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/SubArraySumKCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/TrappingRainWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/FirstLastOccur.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/MinRotatedSorted2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/MinimunInRotatedSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/SearchInRotatedArray2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/SearchInsert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/SearchinRotatecArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/SuccessfullPair.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/JumpGame5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/JumpGame7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/AdjMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/DFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/DFSonAdjMat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/JumpGame3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/JumpGame4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/greedy/GasStation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/linkedList/CyclePresent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/linkedList/MiddleElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/linkedList/OddEven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/linkedList/RemoveNthNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/linkedList/Reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/Atoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/BinaryString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/GenParanthese.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/Print1toN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/ReverseArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/SumofN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stack/ValidParen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/CountSpecialCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Simun-12"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Simun-12&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Simun-12/leetcode-submissions.git",
-    "accountId": "76c138d3-7aa4-4134-b590-8beff7fc7ad5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Simun-12/leetcode-submissions.git&quot;,
+    &quot;accountId&quot;: &quot;76c138d3-7aa4-4134-b590-8beff7fc7ad5&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -171,7 +104,9 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/anike/Desktop/workspace/DSA/dsa_java",
     "onboarding.tips.debug.path": "C:/Users/anike/Desktop/workspace/DSA/dsa_java/src/main/java/org/example/Main.java"
@@ -224,7 +159,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/binarySearch/MinimunInRotatedSortedArray.java</url>
           <line>3</line>
-          <properties class="binarySearch.MinimunInRotatedSortedArray" method="bs">
+          <properties class="binarySearch.MinimunInRotatedSortedArray">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
