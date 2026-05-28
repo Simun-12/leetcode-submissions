@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="443126a9-7c4e-45e9-b213-cff29b056872" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/CorFlightBooking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/GoodArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/LongestCommonPrefix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MajorityELement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MajorityElement2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MaxCon1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MaxSubarraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MergeSorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MinCommon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/MoveZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/NextPermutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/PrefixCommonArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/ReaarangeElementBySign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/RemoveDupe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/RotateArraybyK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/RotateTheBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/SortColors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/SortedRotated.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/StockBuySell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/SubArraySumKCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/TrappingRainWater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/FirstLastOccur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/MinRotatedSorted2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/MinimunInRotatedSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/SearchInRotatedArray2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/SearchInsert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/SearchinRotatecArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binarySearch/SuccessfullPair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/JumpGame5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/JumpGame7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graph/AdjMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graph/DFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graph/DFSonAdjMat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graph/JumpGame3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graph/JumpGame4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/greedy/GasStation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linkedList/CyclePresent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linkedList/MiddleElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linkedList/OddEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linkedList/RemoveNthNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linkedList/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/Atoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/BinaryString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/GenParanthese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/Print1toN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/ReverseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/SumofN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stack/ValidParen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/CountSpecialCharacters.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Simun-12"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Simun-12/leetcode-submissions.git",
+    "accountId": "76c138d3-7aa4-4134-b590-8beff7fc7ad5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3A1dI2FqEYpit5X8o0Kc06LaAkp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.dsa_java [:Atoi.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.CorFlightBooking.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.GoodArray.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.LongestCommonPrefix.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.MajorityELement.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.MajorityElement2.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.MaxCon1.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.MaxSubarraySum.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.MergeSorted.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.MinCommon.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.MoveZero.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.NextPermutation.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.PrefixCommonArray.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.ReaarangeElementBySign.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.RemoveDupe.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.RotateTheBox.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.SortColors.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.SortedRotated.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.StockBuySell.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.SubArraySumKCount.main()].executor": "Run",
+    "Gradle.dsa_java [:arrays.TwoSum.main()].executor": "Run",
+    "Gradle.dsa_java [:binarySearch.BinarySearch.main()].executor": "Run",
+    "Gradle.dsa_java [:binarySearch.FindPeakElement.main()].executor": "Run",
+    "Gradle.dsa_java [:binarySearch.FirstLastOccur.main()].executor": "Run",
+    "Gradle.dsa_java [:binarySearch.MinRotatedSorted2.main()].executor": "Run",
+    "Gradle.dsa_java [:binarySearch.MinimunInRotatedSortedArray.main()].executor": "Run",
+    "Gradle.dsa_java [:binarySearch.SearchInRotatedArray2.main()].executor": "Run",
+    "Gradle.dsa_java [:binarySearch.SearchInsert.main()].executor": "Run",
+    "Gradle.dsa_java [:binarySearch.SearchinRotatecArray.main()].executor": "Run",
+    "Gradle.dsa_java [:binarySearch.SuccessfullPair.main()].executor": "Run",
+    "Gradle.dsa_java [:dp.JumpGame5.main()].executor": "Run",
+    "Gradle.dsa_java [:dp.JumpGame7.main()].executor": "Run",
+    "Gradle.dsa_java [:graph.AdjMatrix.main()].executor": "Run",
+    "Gradle.dsa_java [:graph.DFS.main()].executor": "Run",
+    "Gradle.dsa_java [:graph.DFSonAdjMat.main()].executor": "Run",
+    "Gradle.dsa_java [:graph.JumpGame3.main()].executor": "Run",
+    "Gradle.dsa_java [:graph.JumpGame4.main()].executor": "Run",
+    "Gradle.dsa_java [:greedy.GasStation.main()].executor": "Run",
+    "Gradle.dsa_java [:linkedList.CyclePresent.main()].executor": "Run",
+    "Gradle.dsa_java [:linkedList.MiddleElement.main()].executor": "Run",
+    "Gradle.dsa_java [:linkedList.OddEven.main()].executor": "Run",
+    "Gradle.dsa_java [:linkedList.RemoveNthNode$ListNode.main()].executor": "Run",
+    "Gradle.dsa_java [:linkedList.Reverse.main()].executor": "Run",
+    "Gradle.dsa_java [:org.example.Main.main()].executor": "Run",
+    "Gradle.dsa_java [:reccursion.Factorial.main()].executor": "Run",
+    "Gradle.dsa_java [:reccursion.Fibonacci.main()].executor": "Run",
+    "Gradle.dsa_java [:reccursion.GenParanthese.main()].executor": "Run",
+    "Gradle.dsa_java [:reccursion.Print1toN.main()].executor": "Run",
+    "Gradle.dsa_java [:reccursion.ReverseArray.main()].executor": "Run",
+    "Gradle.dsa_java [:reccursion.SumofN.main()].executor": "Run",
+    "Gradle.dsa_java [:stack.ValidParen.main()].executor": "Run",
+    "Gradle.dsa_java [:string.CountSpecialCharacters.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/anike/Desktop/workspace/DSA/dsa_java",
+    "onboarding.tips.debug.path": "C:/Users/anike/Desktop/workspace/DSA/dsa_java/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="RemoveNthNode$ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.RemoveNthNode$ListNode" />
+      <module name="dsa_java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RemoveNthNode$ListNode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="443126a9-7c4e-45e9-b213-cff29b056872" name="Changes" comment="" />
+      <created>1771763932418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771763932418</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/linkedList/OddEven.java</url>
+          <line>4</line>
+          <properties field="val" class="linkedList.OddEven.ListNode" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/binarySearch/MinimunInRotatedSortedArray.java</url>
+          <line>3</line>
+          <properties class="binarySearch.MinimunInRotatedSortedArray" method="bs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
