@@ -16,7 +16,7 @@ public class Reverse {
         return prev;
     }
 
-    static class ListNode {
+    private static class ListNode {
         int val;
         ListNode next;
 
