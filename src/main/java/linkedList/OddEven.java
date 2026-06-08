@@ -13,7 +13,6 @@ public class OddEven {
          ListNode odd = head;
          ListNode even = odd.next;
          ListNode evenhead = even;
-
          while(even!=null && even.next!= null){
              odd.next= even.next;
              odd= odd.next;
@@ -32,20 +31,13 @@ public class OddEven {
         }
         return head;
     }
-
     public static void main(String[] args){
         int[] arr = {1,2,3,4,5};
-
         ListNode head = createArrList(arr);
         ListNode ans = oddEvenList(head);
-
         while(ans!=null){
             System.out.print(ans.val  + "");
             ans = ans.next;
         }
-
-
     }
-
-
 }
