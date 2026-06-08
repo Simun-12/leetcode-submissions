@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="443126a9-7c4e-45e9-b213-cff29b056872" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/LeftRightSumDiff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/PalindromLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcodeDaily/EarliestFinishTIme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/EarliestFinishTIme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linkedList/MiddleElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/linkedList/MiddleElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +92,7 @@
     "Gradle.dsa_java [:greedy.GasStation.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.DestroyAsteroids.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.EarliestFinishTIme.main()].executor": "Run",
+    "Gradle.dsa_java [:leetcodeDaily.LeftRightSumDiff.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.MinimumCostCandies.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.CyclePresent.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.FindIntersection.main()].executor": "Run",

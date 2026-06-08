@@ -32,11 +32,8 @@ public class MiddleElement {
 
     public static void main(String[] args){
         int[] arr = {1,2,3,4,5};
-
         ListNode head = createArrList(arr);
-
         ListNode mid = middleNode(head);
-
        while(mid!= null){
            System.out.print(mid.val +" ");
            mid = mid.next;
