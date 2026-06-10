@@ -11,8 +11,8 @@ public class SubsequenceSumKCount {
         return result;
     }
     public static void main(String[] args){
-        int[]  nums = {4, 9, 2, 5, 1};
-        int k = 10;
+        int[] nums = {10,1,2,7,6,1,5};
+        int k = 8;
         System.out.println(helper(0,k,0,nums));
     }
 }
