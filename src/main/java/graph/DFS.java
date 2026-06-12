@@ -3,25 +3,17 @@ package graph;
 import java.util.*;
 
 public class DFS {
-
     public static void dfs(int node,Map<Integer, ArrayList<Integer>> graph,int[] visited, ArrayList<Integer> values ){
-
         if(visited[node]== 1) return;
-
         visited[node] = 1;
         values.add(node);
-
         for(int nbr :graph.get(node)){
             if(visited[nbr] != 1)
                 dfs(nbr,graph,visited,values);
         }
-
     }
-
-
     public static Map<Integer, ArrayList<Integer>> createAdjList( int[][] edges){
         Map<Integer, ArrayList<Integer>> graph = new HashMap<>();
-
         for(int[] edge: edges){
             int a= edge[0];
             int b= edge[1];
