@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="443126a9-7c4e-45e9-b213-cff29b056872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/LeftRightSumDiff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/PalindromLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/medium/BinaryTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/medium/MaxPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/medium/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/medium/PathSum2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/linkedList/MiddleElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/linkedList/MiddleElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +110,7 @@
     "Gradle.dsa_java [:reccursion.SumofN.main()].executor": "Run",
     "Gradle.dsa_java [:stack.ValidParen.main()].executor": "Run",
     "Gradle.dsa_java [:string.CountSpecialCharacters.main()].executor": "Run",
+    "Gradle.dsa_java [:tree.medium.BinaryTreePaths.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
