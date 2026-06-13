@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="443126a9-7c4e-45e9-b213-cff29b056872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/medium/BinaryTreePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/medium/MaxPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/medium/PathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/medium/PathSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/WeightedWordMapping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +44,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="3A1dI2FqEYpit5X8o0Kc06LaAkp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -95,6 +95,7 @@
     "Gradle.dsa_java [:leetcodeDaily.EarliestFinishTIme.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.LeftRightSumDiff.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.MinimumCostCandies.main()].executor": "Run",
+    "Gradle.dsa_java [:leetcodeDaily.WeightedWordMapping.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.CyclePresent.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.FindIntersection.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.MiddleElement.main()].executor": "Run",
