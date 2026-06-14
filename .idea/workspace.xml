@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="443126a9-7c4e-45e9-b213-cff29b056872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/MaxWidth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/NodesDisK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/CountAllNodes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,6 +114,7 @@
     "Gradle.dsa_java [:string.CountSpecialCharacters.main()].executor": "Run",
     "Gradle.dsa_java [:tree.medium.BinaryTreePaths.main()].executor": "Run",
     "Gradle.dsa_java [:tree.medium.SumRootLeafNums.main()].executor": "Run",
+    "Gradle.dsa_java [:tree.problems.CountAllNodes.main()].executor": "Run",
     "Gradle.dsa_java [:tree.problems.DiameterOfBinaryTree.main()].executor": "Run",
     "Gradle.dsa_java [:tree.problems.LCA.main()].executor": "Run",
     "Gradle.dsa_java [:tree.problems.LongestUniValuePath.main()].executor": "Run",
