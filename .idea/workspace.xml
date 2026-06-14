@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="443126a9-7c4e-45e9-b213-cff29b056872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/MaxTwinSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/LCA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/LongestUniValuePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/SumRootLeafNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/isSymetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/MaxWidth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/NodesDisK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/BalancedBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/BalancedBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/BinaryTreePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/BinaryTreePaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/DiameterOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/DiameterOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/MaxDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/MaxPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/MaxPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/PathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/PathSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/PathSum2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +118,8 @@
     "Gradle.dsa_java [:tree.problems.DiameterOfBinaryTree.main()].executor": "Run",
     "Gradle.dsa_java [:tree.problems.LCA.main()].executor": "Run",
     "Gradle.dsa_java [:tree.problems.LongestUniValuePath.main()].executor": "Run",
+    "Gradle.dsa_java [:tree.problems.MaxWidth.main()].executor": "Run",
+    "Gradle.dsa_java [:tree.problems.NodesDisK.main()].executor": "Run",
     "Gradle.dsa_java [:tree.problems.SameTree.main()].executor": "Run",
     "Gradle.dsa_java [:tree.problems.isSymetric.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
