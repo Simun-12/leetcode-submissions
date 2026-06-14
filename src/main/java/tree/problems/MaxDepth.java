@@ -1,7 +1,5 @@
-package tree.medium;
+package tree.problems;
 
-
-import com.sun.source.tree.Tree;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package tree.medium;
+package tree.problems;
 
 public class PathSum {
     public static class TreeNode{

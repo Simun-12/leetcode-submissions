@@ -1,9 +1,7 @@
-package tree.medium;
-
-import com.sun.source.tree.Tree;
+package tree.problems;
 
 public class DiameterOfBinaryTree {
-   static int max=0;
+
     public static class TreeNode{
         int val;
         TreeNode left;
@@ -14,17 +12,18 @@ public class DiameterOfBinaryTree {
                 TreeNode right = null;
             }
     }
-    private static int helper(TreeNode root, int max){
+    private static int max=0;
+    private static int helper(TreeNode root){
         if(root == null) return 0;
-        int lh = helper(root.left,max);
-        int rh = helper(root.right,max);
+        int lh = helper(root.left);
+        int rh = helper(root.right);
         max = Math.max(max,lh+rh);
         return 1 + Math.max(lh,rh);
 
     }
     public static int diameterOfBinaryTree(TreeNode root) {
         max=0;
-        return helper(root,max);
+        return helper(root);
     }
     public static void main(String[] args){
         TreeNode root = new TreeNode(1);

@@ -1,4 +1,4 @@
-package tree.medium;
+package tree.problems;
 
 import java.util.ArrayList;
 import java.util.List;

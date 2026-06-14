@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="443126a9-7c4e-45e9-b213-cff29b056872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/WeightedWordMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/MaxTwinSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/LCA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/LongestUniValuePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/SameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/SumRootLeafNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/isSymetric.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/BalancedBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/BalancedBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/BinaryTreePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/BinaryTreePaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/DiameterOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/DiameterOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/MaxDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/MaxPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/MaxPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/PathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/medium/PathSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/problems/PathSum2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +110,7 @@
     "Gradle.dsa_java [:leetcodeDaily.WeightedWordMapping.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.CyclePresent.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.FindIntersection.main()].executor": "Run",
+    "Gradle.dsa_java [:linkedList.MaxTwinSum.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.MiddleElement.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.OddEven.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.RemoveNthNode$ListNode.main()].executor": "Run",
@@ -112,6 +125,12 @@
     "Gradle.dsa_java [:stack.ValidParen.main()].executor": "Run",
     "Gradle.dsa_java [:string.CountSpecialCharacters.main()].executor": "Run",
     "Gradle.dsa_java [:tree.medium.BinaryTreePaths.main()].executor": "Run",
+    "Gradle.dsa_java [:tree.medium.SumRootLeafNums.main()].executor": "Run",
+    "Gradle.dsa_java [:tree.problems.DiameterOfBinaryTree.main()].executor": "Run",
+    "Gradle.dsa_java [:tree.problems.LCA.main()].executor": "Run",
+    "Gradle.dsa_java [:tree.problems.LongestUniValuePath.main()].executor": "Run",
+    "Gradle.dsa_java [:tree.problems.SameTree.main()].executor": "Run",
+    "Gradle.dsa_java [:tree.problems.isSymetric.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
