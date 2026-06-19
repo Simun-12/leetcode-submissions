@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="443126a9-7c4e-45e9-b213-cff29b056872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/CountAllNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarySearchTree/InsertInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarySearchTree/SearchInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/AngleBwClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/HighestAltitude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/ProcessStringSplOps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +87,7 @@
     "Gradle.dsa_java [:binarySearch.SearchInsert.main()].executor": "Run",
     "Gradle.dsa_java [:binarySearch.SearchinRotatecArray.main()].executor": "Run",
     "Gradle.dsa_java [:binarySearch.SuccessfullPair.main()].executor": "Run",
+    "Gradle.dsa_java [:binarySearchTree.SearchInBST.main()].executor": "Run",
     "Gradle.dsa_java [:dp.JumpGame5.main()].executor": "Run",
     "Gradle.dsa_java [:dp.JumpGame7.main()].executor": "Run",
     "Gradle.dsa_java [:graph.AdjMatrix.main()].executor": "Run",
@@ -91,10 +96,13 @@
     "Gradle.dsa_java [:graph.JumpGame3.main()].executor": "Run",
     "Gradle.dsa_java [:graph.JumpGame4.main()].executor": "Run",
     "Gradle.dsa_java [:greedy.GasStation.main()].executor": "Run",
+    "Gradle.dsa_java [:leetcodeDaily.AngleBwClock.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.DestroyAsteroids.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.EarliestFinishTIme.main()].executor": "Run",
+    "Gradle.dsa_java [:leetcodeDaily.HighestAltitude.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.LeftRightSumDiff.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.MinimumCostCandies.main()].executor": "Run",
+    "Gradle.dsa_java [:leetcodeDaily.ProcessStringSplOps.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.WeightedWordMapping.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.CyclePresent.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.FindIntersection.main()].executor": "Run",
