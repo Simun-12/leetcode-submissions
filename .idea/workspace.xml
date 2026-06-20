@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="443126a9-7c4e-45e9-b213-cff29b056872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/binarySearchTree/InsertInBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binarySearchTree/SearchInBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/AngleBwClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/HighestAltitude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/ProcessStringSplOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/LRUCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
