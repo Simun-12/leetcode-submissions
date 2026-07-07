@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="443126a9-7c4e-45e9-b213-cff29b056872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/MaxBuildHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binarySearchTree/TwoSum4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/heap/KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/heap/MergeKSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/MaxIceBars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/MaxNoBalloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/problems/SecondMinNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/MaxElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/SumMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/slidingWindow/BinarySubArrayWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/slidingWindow/LongestRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/slidingWindow/LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/slidingWindow/MaxConsecOnes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,10 +105,12 @@
     "Gradle.dsa_java [:leetcodeDaily.EarliestFinishTIme.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.HighestAltitude.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.LeftRightSumDiff.main()].executor": "Run",
+    "Gradle.dsa_java [:leetcodeDaily.MaxElement.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.MaxIceBars.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.MaxNoBalloons.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.MinimumCostCandies.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.ProcessStringSplOps.main()].executor": "Run",
+    "Gradle.dsa_java [:leetcodeDaily.SumMultiply.main()].executor": "Run",
     "Gradle.dsa_java [:leetcodeDaily.WeightedWordMapping.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.CyclePresent.main()].executor": "Run",
     "Gradle.dsa_java [:linkedList.FindIntersection.main()].executor": "Run",
@@ -125,6 +126,9 @@
     "Gradle.dsa_java [:reccursion.Print1toN.main()].executor": "Run",
     "Gradle.dsa_java [:reccursion.ReverseArray.main()].executor": "Run",
     "Gradle.dsa_java [:reccursion.SumofN.main()].executor": "Run",
+    "Gradle.dsa_java [:slidingWindow.BinarySubArrayWithSum.main()].executor": "Run",
+    "Gradle.dsa_java [:slidingWindow.LongestSubstring.main()].executor": "Run",
+    "Gradle.dsa_java [:slidingWindow.MaxConsecOnes.main()].executor": "Run",
     "Gradle.dsa_java [:stack.ValidParen.main()].executor": "Run",
     "Gradle.dsa_java [:string.CountSpecialCharacters.main()].executor": "Run",
     "Gradle.dsa_java [:tree.medium.BinaryTreePaths.main()].executor": "Run",
