@@ -1,4 +1,4 @@
-package reccursion;
+package reccursion.basic;
 
 public class Print1toN {
     public static void series( int n){

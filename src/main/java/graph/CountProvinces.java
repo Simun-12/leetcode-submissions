@@ -8,7 +8,6 @@ public class CountProvinces {
         Queue<Integer> q = new LinkedList<>();
         q.add(node);
         vis[node] = true;
-        int count =0;
         while(!q.isEmpty()){
           int curr = q.poll();
             for(int i=0; i< graph.length; i++){
@@ -16,7 +15,6 @@ public class CountProvinces {
                     q.add(i);
                     vis[i] = true;
                 }
-                count ++;
 
             }
         }

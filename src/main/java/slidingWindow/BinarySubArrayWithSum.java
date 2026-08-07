@@ -2,19 +2,16 @@ package slidingWindow;
 
 public class BinarySubArrayWithSum {
     public static int numSubarraysWithSum(int[] nums, int goal) {
-      int count=0,sum=0;
-      int left=0,right=0;
-      while(right<nums.length){
-          sum += nums[right];
-          if(sum>goal){
-              count++;
-              left++;
-              sum = sum - nums[left];
-              right--;
-          }
-          else right++;
-      }
-      return count;
+        int[] prefixSum = new int[nums.length];
+        int count=0;
+        prefixSum[0] = nums[0];
+        for(int i=1; i<nums.length;i++){
+               prefixSum[i] = prefixSum[i-1]+ nums[i];
+               if(prefixSum[i]==goal) count++;
+               if(prefixSum[i]-nums[i]==goal) count++;
+
+        }
+        return count;
     }
     public static void main(String[] args){
         int[]  nums = {1,0,1,0,1};

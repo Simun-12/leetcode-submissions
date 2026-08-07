@@ -1,4 +1,4 @@
-package reccursion;
+package reccursion.basic;
 
 public class ReverseArray {
     public static void reverse(int[] arr, int left, int right){

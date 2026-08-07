@@ -1,4 +1,4 @@
-package reccursion;
+package reccursion.basic;
 
 public class Factorial {
     public static int fact( int n ){

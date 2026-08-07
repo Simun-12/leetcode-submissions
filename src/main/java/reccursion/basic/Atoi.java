@@ -1,4 +1,4 @@
-package reccursion;
+package reccursion.basic;
 
 public class Atoi {
 

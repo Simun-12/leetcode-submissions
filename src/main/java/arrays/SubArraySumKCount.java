@@ -8,7 +8,7 @@ import java.util.Set;
 public class SubArraySumKCount {
     public static int subarraySum(int[] nums, int k) {
         int n = nums.length;
-        Set<Integer> prefixSum = new HashSet<>();
+        Set<Integer> prefixSum = new HashSet<>();///// USE MAPPPPPPP
         prefixSum.add(0);
         int count =0;
         int sum =0;

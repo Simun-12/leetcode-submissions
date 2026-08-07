@@ -1,9 +1,19 @@
-package graph;
+package graph.traversals;
 
-import java.util.*;
+import java.util.ArrayList;
 
-public class AdjMatrix {
+public class DFSonAdjMat {
 
+    public static void dfs(int node, int [][] adjMat, ArrayList<Integer> values, int n,int [] visited){
+          visited[node] = 1;
+         values.add(node);
+       System.out.print(node);
+          for(int j=0; j<=n; j++){
+              if(adjMat[node][j]==1 && visited[j]!=1)
+                  dfs(j,adjMat,values,n,visited);
+          }
+
+    }
     public static void adjMatrix(int[][] adjMat, int[][] edges, int n){
 
         for(int[] edge : edges){
@@ -31,8 +41,8 @@ public class AdjMatrix {
     public static void main(String[] args) {
         int[][] edges = {
                 {0, 1},
-                {1, 4},
                 {1, 2},
+                {1, 4},
                 {2, 3}
         };
 
@@ -40,5 +50,10 @@ public class AdjMatrix {
         int[][] adjMat = new int[n + 1][n + 1];
 
         adjMatrix(adjMat, edges, n);
+        int[] visited = new int[n+1];
+
+        ArrayList<Integer> values = new ArrayList<>();
+
+        dfs(0,adjMat,values, n, visited);
     }
 }
