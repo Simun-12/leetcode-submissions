@@ -5,40 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="443126a9-7c4e-45e9-b213-cff29b056872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/FindMissingEle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/MaxProdSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/SmallestDivDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binarySearch/HouseRobber4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/HouseRobber4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/StoneGame3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/dpOnTree/HouseRobber3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/oneDDp/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/oneDDp/HouseRobber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/oneDDp/HouseRobber2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/oneDDp/MinCostClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/twoDDp/MinPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/twoDDp/PartionEqualSubsetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/twoDDp/UniquePath2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/twoDDp/UniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/graph/RemovesMethodFromProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/greedy/AssignCookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/greedy/LemonadeChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/slidingWindow/FruitBasket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stack/monotonicStack/AsteroidCollision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/graph/RottenOranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodeDaily/SmallestDivDig2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stack/ValidParethese.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/SubArraySumKCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/SubArraySumKCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/AdjMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graph/traversals/AdjMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/CountProvinces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graph/CountProvinces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graph/traversals/DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/DFSonAdjMat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graph/traversals/DFSonAdjMat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/Atoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reccursion/basic/Atoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reccursion/basic/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reccursion/basic/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/GenParanthese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reccursion/basic/GenParanthese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/Print1toN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reccursion/basic/Print1toN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reccursion/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reccursion/basic/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/slidingWindow/BinarySubArrayWithSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/slidingWindow/BinarySubArrayWithSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string/SmallestPalindrome2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/string/SmallestPalindrome2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/HouseRobber4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/twoDDp/HouseRobber4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
